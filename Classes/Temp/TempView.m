@@ -13,7 +13,9 @@
 // loadNib文件时调用
 - (void)awakeFromNib
 {
+    
     NSLog(@"%s", __FUNCTION__);
+    
 }
 
 @end
