@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>category</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>精品推荐</string>
+			<key>products</key>
+			<string>JSJP001,JSJP018,JSJP011,JSJP003,JSJP002</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>手机配件</string>
+			<key>products</key>
+			<string>JSJP003,JSJP002,JSJP001,JSJP012,JSJP015</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>配件手机</string>
+			<key>products</key>
+			<string>JSJP002,JSJP008,JSJP022,JSJP028</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>户外运动</string>
+			<key>products</key>
+			<string>JSJP028,JSJP025,JSJP023,JSJP020,JSJP010</string>
+		</dict>
+	</array>
+	<key>displayItems</key>
+	<dict>
+		<key>cn</key>
+		<string>名称,品牌,保修期,编号,特点</string>
+		<key>en</key>
+		<string>name,band,warrantTime,no,feature</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadbegin</key>
+	<string>正在载入，请稍后</string>
+	<key>loadimgturn</key>
+	<string>正在载入图片轮播资源</string>
+	<key>loadicon</key>
+	<string>正在载入图标资源</string>
+	<key>loaddetail</key>
+	<string>正在载入详细页面资源</string>
+	<key>loadmovie</key>
+	<string>正在载入视频资源</string>
+	<key>loadend</key>
+	<string>载入完成</string>
+</dict>
+</plist>

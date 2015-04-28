@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>第一个产品</string>
+		<key>no</key>
+		<string>JSJP001</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第二个产品</string>
+		<key>no</key>
+		<string>JSJP002</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>空白</string>
+		<key>no</key>
+		<string>配件手机</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>空白</string>
+		<key>no</key>
+		<string>户外运动</string>
+	</dict>
+</array>
+</plist>

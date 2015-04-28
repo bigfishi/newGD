@@ -1,0 +1,32 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+
+// 正通项目 37
+// 惠通项目 36
+// 无限制   -1
+#define LimitKeywordIdNo    -1
+#define LimitKeywordId      LimitKeywordIdNo
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIImageView+CustomFit.h"
+#import "gdiHelper.h"
+#import "UIColor+HexString.h"
+#import "gdiBaseViewController.h"
+#import "gdiDetailViewController.h"
+#import "gdiSingleton.h"
+#import "gdiSearchViewController.h"
+#import "gdiDownloadHelper.h"
+#import "gdiQuickTipView.h"
+#endif

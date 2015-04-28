@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>band</key>
+	<string>Jabra捷波朗</string>
+	<key>dependency</key>
+	<string>丹麦</string>
+	<key>name</key>
+	<string>蓝牙耳机</string>
+	<key>no</key>
+	<string>JSJP001</string>
+	<key>remarks</key>
+	<string>方便实用</string>
+	<key>remarksLink</key>
+	<string>http://item.jd.com/603131.html</string>
+	<key>version</key>
+	<string>Easy GO+易行3.0</string>
+	<key>warrantTime</key>
+	<integer>6</integer>
+	<key>recommandWord</key>
+	<string>全球销量冠军</string>
+	<key>feature</key>
+	<string>双待机功能，音乐通话两不误，全天候舒适佩戴</string>
+	<key>price</key>
+	<string>498</string>
+</dict>
+</plist>
