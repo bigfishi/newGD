@@ -1,0 +1,101 @@
+2015-04-28 15:13:33.992 GDiPhone[8970:574790] /Users/dayu/Library/Developer/CoreSimulator/Devices/9431081D-5CA3-4C6F-87D1-A4B641D3B680/data/Containers/Data/Application/B8B6A5CE-54EE-43A4-8C2F-8FA4EEC78D90
+2015-04-28 15:13:34.289 GDiPhone[8970:574790] receive the response
+2015-04-28 15:13:34.289 GDiPhone[8970:574790] allHeaderFields: {
+    "Content-Type" = "application/json;charset=UTF-8";
+    Date = "Tue, 28 Apr 2015 06:54:15 GMT";
+    Server = "Apache-Coyote/1.1";
+    "Set-Cookie" = "JSESSIONID=DC9FAE0AC7A2E064DA4E01FC41E13D17; Path=/aagpm/; HttpOnly";
+    "Transfer-Encoding" = Identity;
+}
+2015-04-28 15:13:34.326 GDiPhone[8970:574790] keyword
+2015-04-28 15:13:34.326 GDiPhone[8970:574790] {
+    id = 39;
+    name = "\U7687\U5bb6\U6cf0\U829d\U5b9dTHAISEBERG";
+    "type_code" = BRAND;
+    "type_name" = "\U54c1\U724c";
+    valid = 1;
+}
+2015-04-28 15:13:34.327 GDiPhone[8970:574790] product
+2015-04-28 15:13:34.327 GDiPhone[8970:574790] {
+    brand = "\U7687\U5bb6\U6cf0\U829d\U5b9dTHAISEBERG";
+    code = JSJP086;
+    description = "\U552f\U4e00\U7687\U5bb6\U5fa1\U7528\U9521\U5668\Uff0c\U7eaf\U624b\U5de5\U6253\U9020";
+    id = 78;
+    "model_size" = TS018B;
+    name = "\U7687\U5bb6\U6cf0\U829d\U5b9d\U9521\U5668\U7279\U8272\U8336\U5177\U5957\U88c5";
+    "origin_country" = "\U6cf0\U56fd";
+    "price_retail" = 3000;
+    "recommend_word" = "\U7687\U5bb6\U5fa1\U7528\Uff0c\U7eaf\U624b\U5de5\U6253\U9020";
+    unit = "\U5957";
+    valid = 1;
+    "warranty_days" = 365;
+}
+2015-04-28 15:13:34.331 GDiPhone[8970:574790] keyword_mapping
+2015-04-28 15:13:34.331 GDiPhone[8970:574790] {
+    id = 889;
+    "keyword_id" = 39;
+    "keyword_name" = "\U7687\U5bb6\U6cf0\U829d\U5b9dTHAISEBERG";
+    "object_id" = 78;
+    "object_name" = "\U7687\U5bb6\U6cf0\U829d\U5b9d\U9521\U5668\U7279\U8272\U8336\U5177\U5957\U88c5";
+    "object_type" = product;
+}
+2015-04-28 15:13:34.334 GDiPhone[8970:574790] product_file
+2015-04-28 15:13:34.334 GDiPhone[8970:574790] {
+    "file_ext" = jpg;
+    "file_hash" = 25a00da3964ad57dfa4e1c4ad2eb745a;
+    "file_name" = "icon.jpg";
+    "file_path" = "/product/78/icon.jpg";
+    id = 307;
+    "product_id" = 78;
+    type = "\U56fe\U7247";
+}
+2015-04-28 15:13:34.347 GDiPhone[8970:574790] prokeyword:{
+    2 =     {
+        code = SUITABLEPROJECT;
+        id = 2;
+        name = "\U9002\U7528\U9879\U76ee";
+        "parent_code" = NULL;
+        "parent_id" = NULL;
+        "parent_name" = NULL;
+        valid = 1;
+    };
+    3 =     {
+        code = PRODUCTLARGECATEGORY;
+        id = 3;
+        name = "\U5546\U54c1\U5927\U7c7b";
+        "parent_code" = NULL;
+        "parent_id" = NULL;
+        "parent_name" = NULL;
+        valid = 1;
+    };
+    4 =     {
+        code = BRAND;
+        id = 4;
+        name = "\U54c1\U724c";
+        "parent_code" = NULL;
+        "parent_id" = NULL;
+        "parent_name" = NULL;
+        valid = 1;
+    };
+    5 =     {
+        code = TOOLSCATEGORY;
+        id = 5;
+        name = "\U5de5\U5177\U7c7b\U578b";
+        "parent_code" = NULL;
+        "parent_id" = NULL;
+        "parent_name" = NULL;
+        valid = 1;
+    };
+}
+2015-04-28 15:13:34.456 GDiPhone[8970:574790] receive the response
+2015-04-28 15:13:34.457 GDiPhone[8970:574790] allHeaderFields: {
+    "Content-Disposition" = "attachment;filename=icon.jpg";
+    "Content-Length" = 85136;
+    "Content-Type" = image;
+    Date = "Tue, 28 Apr 2015 06:54:15 GMT";
+    Server = "Apache-Coyote/1.1";
+    error = 0;
+    ext = jpg;
+}
+2015-04-28 15:13:40.497 GDiPhone[8970:574790] 切换到了1项
+
